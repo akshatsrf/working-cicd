@@ -8,7 +8,7 @@ Release:
   name: service
 
 env:
-  - name: MY_ID
+  - name: MY_ID_23456789
     value: one
   - name: ONE_ID
     value: two
