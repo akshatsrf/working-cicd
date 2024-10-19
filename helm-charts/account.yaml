@@ -1,7 +1,7 @@
 replicaCount: 1
 
 app:
-  name: my-name-cs-dev1
+  name: my-name-cs-si11
 
 Release:
   Maintainer: my-service
